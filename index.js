@@ -18,5 +18,5 @@ app.use(bodyParser.json())
 app.use("/", router);
 
 app.listen(PORT, () => {
-    console.log('server berjalan di http://localhost:3000')
+    console.log('server berjalan ss di http://localhost:3000')
 })
